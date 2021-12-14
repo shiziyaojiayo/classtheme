@@ -1,10 +1,10 @@
 theme = "variant"  
-baseURL = "https://shiziyao.github.io/classtheme---"
+baseURL = "https://shiziyao.github.io/"
 #baseURL = "https://airbone4.github.io/class_web" #https://xxx.github.io/xxx
 pygmentsUseClasses = true
 languageCode = "en-us"
 title = "Learn Javascript"
-relativeurls = false
+relativeurls = true
 publishDir = "docs"
 author = "lendjwjcen"
 enableGitInfo = false
